@@ -2,7 +2,6 @@
 #include <unordered_map>
 #include <string>
 #include <fstream>
-#include <windows.h>
 using namespace std;
 
 string nazwa, polecenie, linia, lok;
