@@ -1,1 +1,1 @@
-program c++ używający biblioteki fstream na wiele sposobów
+Programy w c++ które pomogą zrozumieć to co mają w tytule
