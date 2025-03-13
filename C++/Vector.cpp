@@ -2,9 +2,9 @@
 #include<vector>
 using namespace std;
 
-bool liczba = true;
 vector<int> proba;
 int a, b;
+
 int main() {
 	cout << "Ile liczb: ";
 	cin >> b;
