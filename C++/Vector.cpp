@@ -16,7 +16,7 @@ int main() {
 	}
 
 
-	for (int i = 0; i < proba.size(); i++) {		//Wypisuje vector po kolei
+	for (int i = 0; i < proba.size(); i++) {		//Wypisuje vector po kolei, Funkcja .size() pobiera wielkość vectoru)
 		cout << endl << proba[i];
 	}
 	cout << endl;
